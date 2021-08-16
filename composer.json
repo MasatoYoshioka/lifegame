@@ -1,0 +1,17 @@
+{
+    "name": "yoshioka/lifegame",
+    "description": "Life Game",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Yoshioka\\LifeGame\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yoshioka",
+            "email": "yoshioka0627@gmail.com"
+        }
+    ],
+    "require": {}
+}
